@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>my biography </title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+<div class="container">
+    <h1>mawadh nashmi's CV</h1>
+    <h5> Scientific specialization : IT </h5>
+    <h4>personal information : </h4>
+    <p>My name is Mawada Nashmi Al-Rashidi 
+     Born in 2003
+     I study at the University of Tabuk, specializing in information     technology 
+I like to learn programming languages</p>
+    
+    <h4>Qualifications</h4>
+    <p>- I am currently in my fourth year at [tabuk], majoring in Information Technology.
+<br>- I have a broad knowledge in programming and software development.
+<br>- I have participated in various projects related to Information Technology and data analysis.
+<br>- I have obtained training certificates in various fields related to Information Technology.</p>
+    <h4>Work Experience</h4>
+    <p>- I have taken several courses in Python programming, focusing on topics such as scripts, command-line interpreters, variables, functions, and arguments. I have also practiced input and arithmetic operations in Python, testing code snippets and predicting their output.</p>
+    
+</div>
+
+<footer>
+    <p>To communicate [05545324564] | [exaple@gmail.com]</p>
+</footer>
+<script>
+    window.onload = function() {
+        alert("Welcome to my biography page!");
+    };
+</script>
+
+</body>
+</html>
